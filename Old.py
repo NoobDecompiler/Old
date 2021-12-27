@@ -1,6 +1,3 @@
-# Decompile by KangEhem:)
-# with (uncompyle6) version : 3.7.4
-# Time Succes decompile : 2021-11-27 13:07:07.617212
 from __future__ import print_function
 import platform, os, sys, time, smtplib
 def move():
